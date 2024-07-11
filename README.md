@@ -26,6 +26,9 @@ Follow these instructions to set up and run the project on your local machine.
 - Open the index.html file in your web browser
 - open index.html
 
+![4](https://github.com/Musaraf05/CGPA-Calculator/assets/144513710/a1474feb-464b-4f21-bb44-f87cbe71f8fc)
+
+
 ### Usage
 1.GPA Calculation
  - Input the grade for each subject using the dropdown menu.
@@ -41,7 +44,6 @@ Follow these instructions to set up and run the project on your local machine.
  - Click on "Remove Subject" to remove the last subject.
 
 4.Add/Remove Semesters
-
  - Click on "Add Semester" to add more semesters.
  - Click on "Remove Semester" to remove the last semester.
 
