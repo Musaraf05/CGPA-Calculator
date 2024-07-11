@@ -53,4 +53,4 @@ Follow these instructions to set up and run the project on your local machine.
 
 Contact
 Name: Mohamed Musaraf.A
-For any inquiries, please contact [your-email@example.com](mohamedmusaraf05@gmail.com).
+- linkedin: [Your LinkedIn Profile](www.linkedin.com/in/mohamed-musaraf-180877244)
