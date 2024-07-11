@@ -28,6 +28,7 @@ Follow these instructions to set up and run the project on your local machine.
 
 ![4](https://github.com/Musaraf05/CGPA-Calculator/assets/144513710/a1474feb-464b-4f21-bb44-f87cbe71f8fc)
 
+![5](https://github.com/Musaraf05/CGPA-Calculator/assets/144513710/59de6285-3996-4384-8eab-1f5b0b2a046c)
 
 ### Usage
 1.GPA Calculation
